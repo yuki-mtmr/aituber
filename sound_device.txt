@@ -1,0 +1,8 @@
+  0 JAPANNEXT MNT, Core Audio (0 in, 2 out)
+  1 iPhone (4) Microphone, Core Audio (1 in, 0 out)
+* 2 Komplete Audio 2, Core Audio (2 in, 2 out)
+  3 Background Music, Core Audio (2 in, 2 out)
+  4 Background Music (UI Sounds), Core Audio (2 in, 2 out)
+  5 MacBook Pro Microphone, Core Audio (1 in, 0 out)
+  6 MacBook Pro Speakers, Core Audio (0 in, 2 out)
+  7 ZoomAudioDevice, Core Audio (2 in, 2 out)
